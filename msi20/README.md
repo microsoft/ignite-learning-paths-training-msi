@@ -23,13 +23,13 @@ These instructions consist of the steps you should go through in preparing to pr
 
 ### Assets in the Train-the-Trainer Kit
 
-<ul>
-<li>This guide</li>
-<li>[Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/msi20.pptx)</li>
-<li>[Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20 LAB NOTES-Draft1.docx)</li>
-<li>[Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20 Dry Run 3 Connecting Cloud Technologies.mp4)</li>
-<li>[Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20 Directors Cut Connecting Cloud Technologies.mp4)</li>
-</ul>
+
+- This guide
+- [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/msi20.pptx)
+- [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20%20LAB%20NOTES-Draft1.docx)
+- [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20%20Dry%20Run%203%20Connecting%20Cloud%20Technologies.mp4)
+- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20%20Directors%20Cut%20Connecting%20Cloud%20Technologies.mp4)
+
 
 ### Deployment
 
@@ -37,9 +37,8 @@ Almost all sessions can be performed from a trial Azure subscription. Instructio
 
 ### Demo Videos
 
-<ul>
-<li>[Azure File Sync](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/Azure File Sync.mp4)</li>
-<li>[Network Adapter and WAC Azure Management](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/Azure Network Adapter and WAC Azure Management Mod.mp4)</li>
-<li>[Site Recovery with WAC](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/Azure Site Recovery with WAC.mp4)</li>
-<li>[WAC Azure Update Management](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/WAC Azure Update Management.mp4)</li>
-</ul>
+
+- [Azure File Sync](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/Azure%20File%20Sync.mp4)
+- [Network Adapter and WAC Azure Management](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/Azure%20Network%20Adapter%20and%20WAC%20Azure%20Management%20Mod.mp4)
+- [Site Recovery with WAC](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/Azure%20Site%20Recovery%20with%20WAC.mp4)
+- [WAC Azure Update Management](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/WAC%20Azure%20Update%20Management.mp4)

@@ -23,13 +23,13 @@ These instructions consist of the steps you should go through in preparing to pr
 
 ### Assets in the Train-the-Trainer Kit
 
-<ul>
-<li>This guide</li>
-<li>[Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10.pptx)</li>
-<li>[Demo/Lab Instructions]()</li>
-<li>[Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10-Migrating to 2019 - v2.mp4)</li>
-<li>[Director's Cut of Presentation]()</li>
-</ul>
+
+- This guide
+- [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10.pptx)
+- [Demo/Lab Instructions](#)
+- [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10-Migrating%20to%202019%20-%20v2.mp4)
+- [Director's Cut of Presentation](#)
+
 
 ### Deployment
 
@@ -37,9 +37,9 @@ Almost all sessions can be performed from a trial Azure subscription. This sessi
 
 ### Demo Videos
 
-<ul>
-<li>[Demo 1: Server Discovery](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-1-Discovery.mp4)</li>
-<li>[Demo 2: DC Promotion and FSMO Migration](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-2-DCPromoFSMO.mp4)</li>
-<li>[Demo 3: DHCP Migration](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-3-dhcp-migration-msi10.mp4)</li>
-<li>[Demo 4: Storage Migration Services](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-4-Edit.mp4)</li>
-</ul>
+
+- [Demo 1: Server Discovery](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-1-Discovery.mp4)
+- [Demo 2: DC Promotion and FSMO Migration](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-2-DCPromoFSMO.mp4)
+- [Demo 3: DHCP Migration](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-3-dhcp-migration-msi10.mp4)
+- [Demo 4: Storage Migration Services](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-4-Edit.mp4)
+
