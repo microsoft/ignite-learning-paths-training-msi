@@ -6,6 +6,28 @@ Now that the migration of their server hosts from Windows Server 2008 R2 to Wind
 
 In this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.
 
+## Session Story
+
+In this session, you'll be playing the role of the Tailwind Traders senior system administrator. You'll be walking the audience through the steps that TWT took to migrate workloads from on-premises to the cloud.  You'll discuss the steps needed to plan and execute the migration.
+
+* We start by identifying the workloads and all the parts needed for the migration of a workload. We cover this to ensure that nothing gets missed or broken as part of the migration.
+
+    * Workloads and owners,  Systems maps, and dependencies.
+    * Networking dependencies,  Address space, subnets...
+    * Storage inventory and clean-up
+    * Identity Management model
+
+* We continue with the identity posture.  It's critical to use the right flavour of AD for the migration.
+** quickly go through the differences between Active Directory (AD), Azure Active Directory (AAD), and Azure AD domain services (AADDS).
+** Demo our AD extensions to the cloud.  We choose AD in Azure because of the multi-geographie nature or our deployments, and because our VMs use GPO and Service Accounts to run, and we have Domain trusts in our environment.
+
+* Storage migration:  for the storage migration, we discuss the challenges with moving large amounts of data. We talk about the availability of Databox service, but we don't demo it since it would take too long for a 45 minutes session.
+
+* Database migration: This session is about migrating VM based workloads we will not discuss the migration to a managed service, but we do point to the MOD20: Moving your Database​ to Azure session that concentrates on that topic
+
+* Finally, the last section of the sessions we walk through the Azure Migrate service to move one of our applications from On-Prem to Azure.
+
+
 ## How To Use
 
 Welcome, Presenter!
