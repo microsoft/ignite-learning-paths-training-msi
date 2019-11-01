@@ -10,7 +10,7 @@ In this session, learn about how Tailwind Traders began the process of migrating
 
 In this session, you'll be playing the role of the Tailwind Traders senior system administrator. You'll be walking the audience through the steps that TWT took to migrate workloads from on-premises to the cloud.  You'll discuss the steps needed to plan and execute the migration.
 
-* We start by identifying the workloads and all the parts needed for the migration of a workload. we cover this to ensure that nothing gets missed or broken as part of the migration.
+* We start by identifying the workloads and all the parts needed for the migration of a workload. We cover this to ensure that nothing gets missed or broken as part of the migration.
 
     * Workloads and owners,  Systems maps, and dependencies.
     * Networking dependencies,  Address space, subnets...
