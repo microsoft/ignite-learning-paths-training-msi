@@ -49,6 +49,7 @@ code.
 - Full-length script of presentation [here](script.md).
 - Director Cut Full-length recording of presentation [here](presentations.md).
 - Demo Guide [here](./demo-guide.md) ***To be completed***
+- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI_30_IGNITE.mp4)
 
 ## Become a Trained Presenter
 
