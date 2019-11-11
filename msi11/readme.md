@@ -37,9 +37,7 @@ These instructions consist of the steps you should go through in preparing to pr
 
 ### Assets in the Train-the-Trainer Kit
 
-<ul>
-<li>This guide</li>
-<li>[Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/MSI11_Top_5_New_Features_Server_2019-RTM.pptx)</li>
-<li>[Full Length Recording of Presentation from Ignite 2019](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/MSI_11_IGNITE.mp4)</li>
-</ul>
+- This guide
+- [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/MSI11_Top_5_New_Features_Server_2019-RTM.pptx)
+- [Full Length Recording of Presentation from Ignite 2019](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/MSI_11_IGNITE.mp4)
 
