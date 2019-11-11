@@ -44,6 +44,7 @@ These instructions consist of the steps you should go through in preparing to pr
 - [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20%20LAB%20NOTES-Draft1.docx)
 - [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20%20Dry%20Run%203%20Connecting%20Cloud%20Technologies.mp4)
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20%20Directors%20Cut%20Connecting%20Cloud%20Technologies.mp4)
+- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI_20_IGNITE.mp4)
 
 
 ### Deployment
