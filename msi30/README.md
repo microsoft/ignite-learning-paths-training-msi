@@ -44,10 +44,10 @@ code.
 ## Assets in Train-The-Trainer kit
 
 - This guide
-- PowerPoint presentation including notes for each slide [here](presentations.md)
-- Full-length recording of presentation [here](presentations.md)
+- PowerPoint presentation including notes for each slide [here]()
+- Full-length recording of presentation [here](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30%20Migrating%20IaaS%20Workloads%20to%20Azure.mp4)
 - Full-length script of presentation [here](script.md).
-- Director Cut Full-length recording of presentation [here](presentations.md).
+- Director Cut Full-length recording of presentation [here](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Directors-cut.mp4).
 - Demo Guide [here](./demo-guide.md) ***To be completed***
 - [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI_30_IGNITE.mp4)
 
