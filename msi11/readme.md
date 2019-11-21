@@ -1,4 +1,6 @@
-# Top Five New Features of Windows Server 2019
+# MSI11: Top Five New Features of Windows Server 2019
+
+![Learning Path](https://img.shields.io/badge/Learning%20Path-MSI-fe5e00?logo=microsoft)
 
 ## Session Abstract
 This 20 minute theatre session provides an overview of 5 (well that's what it says on the title, it's actually more) new features of Windows Server 2019.
