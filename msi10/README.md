@@ -1,4 +1,6 @@
-# Migrating to Windows Server 2019
+# MSI10: Migrating to Windows Server 2019
+
+![Learning Path](https://img.shields.io/badge/Learning%20Path-MSI-fe5e00?logo=microsoft)
 
 ## Session Abstract
 Tailwind Traders has acquired Northwind, a large subsidiary company. Northwind currently has 1500 servers running Windows Server 2008 R2 - either directly or virtually - on hardware at the midpoint of its operational lifespan. While Tailwind Traders will eventually move many of these workloads to Azure, Windows Server 2008 R2 end of life is quickly approaching. In this session, learn how Tailwind Traders’ used Azure hybrid management technologies to migrate servers, and the roles that they host, to Windows Server 2019.

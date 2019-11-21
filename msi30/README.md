@@ -1,4 +1,6 @@
-# Migrating IaaS Workloads to Azure
+# MSI30: Migrating IaaS Workloads to Azure
+
+![Learning Path](https://img.shields.io/badge/Learning%20Path-MSI-fe5e00?logo=microsoft)
 
 ## Session Abstract
 

@@ -1,4 +1,6 @@
-# Integrating Cloud Technologies
+# MSI20: Integrating Cloud Technologies
+
+![Learning Path](https://img.shields.io/badge/Learning%20Path-MSI-fe5e00?logo=microsoft)
 
 ## Session Abstract
 Tailwind Traders has now migrated the majority of their server hosts from Windows Server 2008 R2 to Windows Server 2019. Now, they are interested in the Azure hybrid technologies that are readily available to them. In this session, learn how Tailwind Traders began using Windows Admin Center to manage its fleet of Windows Server computers and integrated hybrid technologies, such as Azure File Sync, Azure Active Directory Password Protection, Azure Backup, and Windows Defender ATP, to improve deployment performance and manageability.
