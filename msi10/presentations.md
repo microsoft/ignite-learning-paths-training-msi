@@ -4,8 +4,8 @@ This is a machine generated file, and should not be edited, as it will be overwr
 
 # MSI10 Presentation Files
 
-- [msi10.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10.pptx)
-- [msi10.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10.ja-jp.pptx)
+- [msi10.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10.pptx) (Updated: Oct 31, 2019)
+- [msi10.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10.ja-jp.pptx) (Updated: Dec 05, 2019)
 ---
 ## Historical Files
 - [msi10-2019-10_Oct-24.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10-2019-10_Oct-24.pptx)

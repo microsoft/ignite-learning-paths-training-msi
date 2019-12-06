@@ -4,8 +4,8 @@ This is a machine generated file, and should not be edited, as it will be overwr
 
 # MSI20 Presentation Files
 
-- [msi20.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/msi20.pptx)
-- [msi20.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/msi20.ja-jp.pptx)
+- [msi20.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/msi20.pptx) (Updated: Nov 12, 2019)
+- [msi20.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/msi20.ja-jp.pptx) (Updated: Dec 05, 2019)
 ---
 ## Historical Files
 - [msi20-2019-10_Oct-24.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/msi20-2019-10_Oct-24.pptx)
