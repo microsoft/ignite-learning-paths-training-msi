@@ -45,8 +45,6 @@ code.
 
 ## Assets in Train-The-Trainer kit
 
-- This guide
-
 - PowerPoint presentation including notes for each slide [<a href="https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30-2019-10_Oct-24.pptx" target="_blank">here</a>]
 
 
