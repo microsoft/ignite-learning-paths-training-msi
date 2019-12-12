@@ -46,12 +46,18 @@ code.
 ## Assets in Train-The-Trainer kit
 
 - This guide
-- PowerPoint presentation including notes for each slide [here]()
-- Full-length recording of presentation [here](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30%20Migrating%20IaaS%20Workloads%20to%20Azure.mp4)
-- Full-length script of presentation [here](script.md).
-- Director Cut Full-length recording of presentation [here](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Directors-cut.mp4).
-- Demo Guide [here](./demo-guide.md) ***To be completed***
-- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI_30_IGNITE.mp4)
+
+- PowerPoint presentation including notes for each slide [<a href="https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30-2019-10_Oct-24.pptx" target="_blank">here</a>]
+
+
+Demos:
+-   Extend AD environment - Video can be found <a href="https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Demo-AD-extend.mp4" target="_blank">here</a>
+-   Workload Migration - Video can be found <a href="https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Demo-AzMig.mp4" target="_blank">here</a>
+
+Recording or the session in different formats
+- Full-length recording of presentation [<a href="https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30 Migrating IaaS Workloads to Azure.mp4" target="_blank">here</a>]
+- Director Cut Full-length recording of presentation [<a href="https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Directors-cut.mp4" target="_blank">here</a>]
+- Recording of the Ignite Orlando delivery can be found <a href="https://myignite.techcommunity.microsoft.com/sessions/82978?source=global-search" target="_blank">here</a>.
 
 ## Become a Trained Presenter
 
