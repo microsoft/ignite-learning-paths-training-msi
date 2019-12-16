@@ -1,12 +1,13 @@
 # MSI30: Migrating IaaS Workloads to Azure
 
-![Learning Path](https://img.shields.io/badge/Learning%20Path-MSI-fe5e00?logo=microsoft)
+[![Learning Path](https://img.shields.io/badge/Learning%20Path-MSI-fe5e00?logo=microsoft)](https://github.com/microsoft/ignite-learning-paths-training-msi)
 
 ## Session Abstract
 
 Now that the migration of their server hosts from Windows Server 2008 R2 to Windows Server 2019 is complete, Tailwind Traders wants to begin the process of “lift and shift”: migrating some of their on-premises VMs they’ve been running in their datacenter.  
 
 In this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.
+
 
 ## Table of Contents
 
@@ -15,6 +16,7 @@ In this session, learn about how Tailwind Traders began the process of migrating
 | PowerPoint        | - [Presentation](presentations.md) |
 | Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30%20Migrating%20IaaS%20Workloads%20to%20Azure.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/82978?source=global-search) <br/>- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Directors-cut.mp4) |
 | Demos             | - [Demo 1 - Extend AD Environment](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Demo-AD-extend.mp4)  <br/>- [Demo 2 - Workload Migration](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Demo-AzMig.mp4) |
+
 
 ## Session Story
 
@@ -51,6 +53,7 @@ code.
 2.  <a href="https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30 Migrating IaaS Workloads to Azure.mp4" target="_blank">Watch the video presentation</a>
 3.  Ask questions of the Lead Presenter
 
+
 ## Assets in Train-The-Trainer kit
 
 - PowerPoint presentation including notes for each slide [<a href="https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30-2019-10_Oct-24.pptx" target="_blank">here</a>]
@@ -67,10 +70,28 @@ Recording or the session in different formats
 
 ## Become a Trained Presenter
 
+You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
+ 
 To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
 
 - Complete name:
-- The code of this presentation: MSI30
-- Link (ex: unlisted YouTube video) to a video of you presenting (~10 minutes).
+- The code of this presentation: \<Session Code (ex:AFUN10)\>
+- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
 
-> It doesn't need to be this content, the important part is to show your presenter skills
+
+## Trained Presenters
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+
+<table>
+<tr>
+    <td align="center"><a href="http://orinthomas.com">
+        <img src="https://avatars1.githubusercontent.com/u/44561273?s=460&v=4" width="100px;" alt="Orin-Thomas"/><br />
+        <sub><b>Orin-Thomas</b></sub></a><br />
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="talk">📢</a>
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="Documentation">📖</a> 
+    </td>
+</tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->

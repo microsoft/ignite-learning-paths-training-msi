@@ -1,8 +1,9 @@
 # MSI11: Top Five New Features of Windows Server 2019
 
-![Learning Path](https://img.shields.io/badge/Learning%20Path-MSI-fe5e00?logo=microsoft)
+[![Learning Path](https://img.shields.io/badge/Learning%20Path-MSI-fe5e00?logo=microsoft)](https://github.com/microsoft/ignite-learning-paths-training-msi)
 
 ## Session Abstract
+
 This 20 minute theatre session provides an overview of 5 (well that's what it says on the title, it's actually more) new features of Windows Server 2019.
 
 ## Table of Contents
@@ -27,6 +28,7 @@ In this session you’ll cover a collection of new features that are available i
 You'll provide a brief overview of each feature or role and how it might be used.
 
 ## How to use this repository
+
 Welcome, Presenter!
 
 We're glad you are here and look forward to your delivery of this content.
@@ -42,6 +44,7 @@ Read this document in its entirety. Watch the video presentation(s), review and 
 Ask questions of the Lead Presenter and trained speakers (list below).
 
 ## Getting Started
+
 These instructions consist of the steps you should go through in preparing to present this content:
 
 ### Assets in the Train-the-Trainer Kit
@@ -50,3 +53,30 @@ These instructions consist of the steps you should go through in preparing to pr
 - [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/MSI11_Top_5_New_Features_Server_2019-RTM.pptx)
 - [Full Length Recording of Presentation from Ignite 2019](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/MSI_11_IGNITE.mp4)
 
+## Become a Trained Presenter
+
+You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
+ 
+To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
+
+- Complete name:
+- The code of this presentation: \<Session Code (ex:AFUN10)\>
+- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
+
+
+## Trained Presenters
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+
+<table>
+<tr>
+    <td align="center"><a href="http://orinthomas.com">
+        <img src="https://avatars1.githubusercontent.com/u/44561273?s=460&v=4" width="100px;" alt="Orin-Thomas"/><br />
+        <sub><b>Orin-Thomas</b></sub></a><br />
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="talk">📢</a>
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="Documentation">📖</a> 
+    </td>
+</tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
