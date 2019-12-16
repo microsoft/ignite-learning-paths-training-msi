@@ -8,6 +8,14 @@ Now that the migration of their server hosts from Windows Server 2008 R2 to Wind
 
 In this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30%20Migrating%20IaaS%20Workloads%20to%20Azure.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/82978?source=global-search) <br/>- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Directors-cut.mp4) |
+| Demos             | - [Demo 1 - Extend AD Environment](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Demo-AD-extend.mp4)  <br/>- [Demo 2 - Workload Migration](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/MSI30-Demo-AzMig.mp4) |
+
 ## Session Story
 
 In this session, you'll be playing the role of the Tailwind Traders senior system administrator. You'll be walking the audience through the steps that TWT took to migrate workloads from on-premises to the cloud.  You'll discuss the steps needed to plan and execute the migration.
