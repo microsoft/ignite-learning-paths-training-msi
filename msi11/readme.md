@@ -5,6 +5,13 @@
 ## Session Abstract
 This 20 minute theatre session provides an overview of 5 (well that's what it says on the title, it's actually more) new features of Windows Server 2019.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/MSI_11_IGNITE.mp4) |
+
 ## Session Story
 
 In this session you’ll cover a collection of new features that are available in Windows Server 2019. Rather than provide demos, due to the time constraints screenshots have been displayed. You'll give a general overview of some important features that aren't covered in the session, but then provide introductory coverage of the following features:
