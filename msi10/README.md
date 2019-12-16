@@ -5,6 +5,14 @@
 ## Session Abstract
 Tailwind Traders has acquired Northwind, a large subsidiary company. Northwind currently has 1500 servers running Windows Server 2008 R2 - either directly or virtually - on hardware at the midpoint of its operational lifespan. While Tailwind Traders will eventually move many of these workloads to Azure, Windows Server 2008 R2 end of life is quickly approaching. In this session, learn how Tailwind Traders’ used Azure hybrid management technologies to migrate servers, and the roles that they host, to Windows Server 2019.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10-Migrating%20to%202019%20-%20v2.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI_10_IGNITE.mp4)  |
+| Demos             | - [Demo 1 - Server Discovery](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-1-Discovery.mp4)  <br/>- [Demo 2 - DC Promotion and FSMO Migration](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-2-DCPromoFSMO.mp4)  <br/>- [Demo 3 - DHCP Migration](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-3-dhcp-migration-msi10.mp4)  <br/>- [Demo 4 - Storage Migration Services](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI-10-Demo-4-Edit.mp4) |
+
 ## Session Story
 In this session you will demonstrate how Tailwind Traders was confronted with the reality of their core infrastructure services on premises is running on Windows 2008 R2 and as such in a dangerous state with regards to End of Support. What this means is Their most critical source of Identity – Active Directory – will become more and more vulnerable the longer it runs without security updates. Because it is one of the core workloads the CANNOT be migrated to the cloud wholeheartedly, a systemic and complete migration of all their domain controller infrastructure is required. The Tailwind Traders company has 30+ sites around the world and has a representative breakdown of at least one DC, a series of App servers, DHCP servers and File Servers that need to be updated OR migrated to Azure in order to mitigate future security update issues.
 
