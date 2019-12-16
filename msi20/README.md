@@ -5,6 +5,14 @@
 ## Session Abstract
 Tailwind Traders has now migrated the majority of their server hosts from Windows Server 2008 R2 to Windows Server 2019. Now, they are interested in the Azure hybrid technologies that are readily available to them. In this session, learn how Tailwind Traders began using Windows Admin Center to manage its fleet of Windows Server computers and integrated hybrid technologies, such as Azure File Sync, Azure Active Directory Password Protection, Azure Backup, and Windows Defender ATP, to improve deployment performance and manageability.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20%20Dry%20Run%203%20Connecting%20Cloud%20Technologies.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI_20_IGNITE.mp4) <br/>- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/MSI20%20Directors%20Cut%20Connecting%20Cloud%20Technologies.mp4) |
+| Demos             | - [Demo 1 - Azure File Sync](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/Azure%20File%20Sync.mp4)  <br/>- [Demo 2 - Network Adapter and WAC Azure Management](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/Azure%20Network%20Adapter%20and%20WAC%20Azure%20Management%20Mod.mp4)  <br/>- [Demo 3 - Site Recovery with WAC](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/Azure%20Site%20Recovery%20with%20WAC.mp4)  <br/>- [Demo 4 - WAC Azure Update Management](https://globaleventcdn.blob.core.windows.net/assets/msi/msi20/WAC%20Azure%20Update%20Management.mp4) |
+
 ## Session Story
 In this session you’ll demonstrate how Tailwind Traders was able to improve their on-premises environment buy using Azure Hybrid Management services, such as Azure Site Recovery, Azure Update Management and Azure File Sync. You’ll be using the fictional company “Tailwind Traders” as a narrative device. Tailwind Traders represents “everyone”. In this case they’ve on-premises resources and servers, but they face a couple of challenges with server management, like disaster recovery, update management and file servers. They will use the Azure Hybrid services and Windows Admin Center to address these challenges.
 <ul>
