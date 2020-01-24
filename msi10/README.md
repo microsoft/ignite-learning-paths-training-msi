@@ -55,7 +55,7 @@ These instructions consist of the steps you should go through in preparing to pr
 
 - This guide
 - [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10.pptx)
-- [Demo/Lab Instructions](#)
+- [Demo/Lab Instructions](#demo-videos)
 - [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/msi10-Migrating%20to%202019%20-%20v2.mp4)
 - [Director's Cut of Presentation](#)
 - [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/msi/msi10/MSI_10_IGNITE.mp4)
