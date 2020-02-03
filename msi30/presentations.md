@@ -7,7 +7,7 @@ If you have questions around this process
 please contact Scott Cate
 -->
 
-# MSI30 Presentation Files
+# MSI30 Current Presentation Files
 
 - [msi30.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30.pptx) (Updated: Oct 30, 2019)
 - [msi30.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30.ja-jp.pptx) (Updated: Jan 21, 2020)
