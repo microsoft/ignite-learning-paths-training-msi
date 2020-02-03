@@ -9,8 +9,8 @@ please contact Scott Cate
 
 # MSI30 Current Presentation Files
 
-- [msi30.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30.pptx) (Updated: Oct 30, 2019)
-- [msi30.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30.ja-jp.pptx) (Updated: Jan 21, 2020)
+- [msi30.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30.pptx)
+- [msi30.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30.ja-jp.pptx)
 ---
 ## Historical Files
 - [msi30-2019-10_Oct-24.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi30/msi30-2019-10_Oct-24.pptx)

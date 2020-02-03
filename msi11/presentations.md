@@ -9,7 +9,7 @@ please contact Scott Cate
 
 # MSI11 Current Presentation Files
 
-- [msi11.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/msi11.pptx) (Updated: Nov 12, 2019)
+- [msi11.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/msi11.pptx)
 ---
 ## Historical Files
 - [msi11-2019-10_Oct-24.pptx](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/msi11-2019-10_Oct-24.pptx)
