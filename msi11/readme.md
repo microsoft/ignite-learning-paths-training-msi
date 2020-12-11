@@ -53,16 +53,6 @@ These instructions consist of the steps you should go through in preparing to pr
 - [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/MSI11_Top_5_New_Features_Server_2019-RTM.pptx)
 - [Full Length Recording of Presentation from Ignite 2019](https://globaleventcdn.blob.core.windows.net/assets/msi/msi11/MSI_11_IGNITE.mp4)
 
-## Become a Trained Presenter
-
-You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
- 
-To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
-
-- Complete name:
-- The code of this presentation: \<Session Code (ex:AFUN10)\>
-- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
-
 
 ## Trained Presenters
 
